@@ -1,0 +1,13 @@
+C:\Users\kevin\source\repos\restful1\restful1\bin\Debug\restful1.exe.config
+C:\Users\kevin\source\repos\restful1\restful1\bin\Debug\restful1.exe
+C:\Users\kevin\source\repos\restful1\restful1\bin\Debug\restful1.pdb
+C:\Users\kevin\source\repos\restful1\restful1\bin\Debug\RestSharp.dll
+C:\Users\kevin\source\repos\restful1\restful1\bin\Debug\RestSharp.xml
+C:\Users\kevin\source\repos\restful1\restful1\obj\Debug\restful1.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\restful1\restful1\obj\Debug\restful1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\restful1\restful1\obj\Debug\restful1.csproj.CopyComplete
+C:\Users\kevin\source\repos\restful1\restful1\obj\Debug\restful1.exe
+C:\Users\kevin\source\repos\restful1\restful1\obj\Debug\restful1.pdb
+C:\Users\kevin\source\repos\restful1\restful1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kevin\source\repos\restful1\restful1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\kevin\source\repos\restful1\restful1\bin\Debug\Newtonsoft.Json.xml
